@@ -14,10 +14,10 @@ Rocket makes abundant use of Rust's syntax extensions and other advanced, unstab
 **Commands**
 Open command line and Enter this command.<br>
 ```
-1.rustup default nightly <br>
-2.rustup override set nightly <br>
-3.rustup update <br>
-4.cargo update <br>
+1.rustup default nightly 
+2.rustup override set nightly 
+3.rustup update 
+4.cargo update
 ```
 
 **Rocket** 
